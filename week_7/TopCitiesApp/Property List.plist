@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<array>
+		<string>Austin</string>
+		<string>Chicago</string>
+		<string>Denver</string>
+		<string>Miami</string>
+		<string>New York City</string>
+		<string>Orlando</string>
+		<string>Portland</string>
+		<string>San Diego</string>
+		<string>San Francisco</string>
+		<string>Seattle</string>
+	</array>
+	<key>Population</key>
+	<array>
+		<string>885,000</string>
+		<string>2,719,000</string>
+		<string>650,000</string>
+		<string>418,000</string>
+		<string>8,500,000</string>
+		<string>256,000</string>
+		<string>610,000</string>
+		<string>1,356,000</string>
+		<string>838,000</string>
+		<string>653,000</string>
+	</array>
+	<key>Image</key>
+	<array>
+		<string>austin.jpg</string>
+		<string>chicago.jpg</string>
+		<string>denver.jpg</string>
+		<string>miami.jpg</string>
+		<string>newyorkcity.jpg</string>
+		<string>orlando.jpg</string>
+		<string>portland.jpg</string>
+		<string>sandiego.jpg</string>
+		<string>sanfran.jpg</string>
+		<string>seattle.jpg</string>
+	</array>
+</dict>
+</plist>

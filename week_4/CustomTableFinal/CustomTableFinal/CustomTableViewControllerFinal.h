@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <ParseUI/PFQueryTableViewController.h>
+#import "Recipe.h"
 
 @interface CustomTableViewController: UITableViewController
 
